@@ -1,4 +1,6 @@
 #支持私库
 
 #支持指定架构
---platform=linux/arm64 mongo:7.0.12
+--platform=linux/arm64 elasticsearch:7.17.25
+--platform=linux/arm64 logstash:7.17.25
+--platform=linux/arm64 kibana:7.17.25
