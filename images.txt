@@ -1,6 +1,13 @@
 #支持私库
 
 #支持指定架构
---platform=linux/arm64 elasticsearch:7.17.25
---platform=linux/arm64 logstash:7.17.25
---platform=linux/arm64 kibana:7.17.25
+--platform=linux/arm64 mysql:8.0.40
+--platform=linux/arm64 redis:7.4
+--platform=linux/arm64 nginx:1.27.0
+--platform=linux/arm64 mongo:7.0.12
+--platform=linux/arm64 rabbitmq:3.13.3
+--platform=linux/arm64 rocketmq:4.9.7
+--platform=linux/arm64 zookeeper:3.7.2-jre-17
+--platform=linux/arm64 kafka:3.6.2
+--platform=linux/arm64 centos:7.9.2009
+--platform=linux/arm64 nacos:2.3.2
